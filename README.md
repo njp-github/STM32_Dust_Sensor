@@ -11,11 +11,11 @@ Prerequisites:
   - STM32 Software Suite installed and configured
   - Arduino IDE
 
-STM32F103 Pinout - https://lh6.googleusercontent.com/wYhAmRIfTgBSWtNt7KT8db70NY2XtEbobHzeHcdPY3SFLKqqIdhgkFJfxikIP2G-J9E6-mFcK-SjpiPfQuUv9yWdaE79o6oB-nglBWmMOmzwL2evWBQ9_uPq08BurhDM0pPziF4
+**STM32F103** Pinout - https://lh6.googleusercontent.com/wYhAmRIfTgBSWtNt7KT8db70NY2XtEbobHzeHcdPY3SFLKqqIdhgkFJfxikIP2G-J9E6-mFcK-SjpiPfQuUv9yWdaE79o6oB-nglBWmMOmzwL2evWBQ9_uPq08BurhDM0pPziF4
 
 Use "HardwareSerial.h" library to activate USART2 and USART3. USART1 is activated by default.
 
-ZH03B Datasheet - https://www.winsen-sensor.com/d/files/air-quality/zh03-series-laser-dust-module-v2_0.pdf
+**ZH03B** Datasheet - https://www.winsen-sensor.com/d/files/air-quality/zh03-series-laser-dust-module-v2_0.pdf
 
 Installing STM32 Add-on in Arduino IDE - https://www.sgbotic.com/index.php?dispatch=pages.view&page_id=48
 
