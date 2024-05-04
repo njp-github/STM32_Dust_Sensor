@@ -1,7 +1,7 @@
 # STM32_Dust_Sensor
 STM32 Blue Pill (Arduino IDE) program for ZH03B Laser Dust Sensor and Serial Monitor Application (works for non-authentic STM32 Blue Pill)
 
-!!! DISCLAIMER: The Particle Sensor module I was working with seemed to be faulty so I could never get any readings out of it. Any feedback would be appreciated. !!!
+**!!! DISCLAIMER: The Particle Sensor module I was working with seemed to be faulty so I could never get any readings out of it. Any feedback would be appreciated. !!!**
 
 Prerequisites:
   - STM32 Blue Pill
